@@ -1,5 +1,3 @@
-You can access the webiste here: https://nothka.github.io/HTML-Assignments/
-
 Simple Multi‑Page Website (HTML only, no CSS)
 
 Files:
